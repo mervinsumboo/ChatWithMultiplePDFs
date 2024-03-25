@@ -2,6 +2,9 @@
 
 MultiPDF Chat App is a Python application that allows you to chat with multiple PDF documents. You can ask questions about the PDFs using natural language, and the application will provide relevant responses based on the content of the documents. This app utilizes a language model to generate accurate answers to your queries. Please note that the app will only respond to questions related to the loaded PDFs.
 
+![image](https://github.com/mervinsumboo/ChatWithMultiplePDFs/assets/61121862/132413dc-f186-4b6a-969e-4b1c253ed96f)
+
+
 # The application follows these steps to provide responses to your questions:
 
 PDF Loading: The app reads multiple PDF documents and extracts their text content.
